@@ -21,8 +21,6 @@ body {
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
 }
 
-/* Recipe Image */
-
 figure {
     margin: 0;
 }
@@ -41,8 +39,6 @@ figcaption {
     color: white;
     font-size: 16px;
 }
-
-/* Recipe Content */
 
 .recipe-content {
     padding: 35px;
@@ -92,8 +88,6 @@ ol li::marker {
     font-weight: bold;
 }
 
-/* Footer */
-
 footer {
     text-align: center;
     background: #f7f7f7;
@@ -101,8 +95,6 @@ footer {
     color: #555;
     font-weight: bold;
 }
-
-/* Responsive Design */
 
 @media (max-width: 600px) {
 
